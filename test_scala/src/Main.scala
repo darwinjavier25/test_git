@@ -1,4 +1,4 @@
-object principal {
+object Main {
   def main(args: Array[String]): Unit = {
 <<<<<<< HEAD
     val mensaje = new Saludar
