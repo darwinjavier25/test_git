@@ -1,5 +1,8 @@
 object Main {
   def main(args: Array[String]): Unit = {
-    println("Hello world!")
+    println("Introduce tu nombre y tu edad!")
+
+    val saludo = new persona
+    println(saludo.grettings)
   }
 }
