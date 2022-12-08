@@ -3,5 +3,8 @@ object Main {
     val mensaje = new Saludar
     val name = mensaje.name
     println(name)
+
+    val pers = Persona.name
+    println(pers)
   }
 }
